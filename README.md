@@ -1,13 +1,17 @@
 # The Welsh Summarisation dataset
 This repo holds the Welsh Summarisation Dataset and Python demo scripts and notebooks. It is being actively updated at the moment, so keep watching the space.
 
+### Dataset
 
+### Usage
 
-# Paper(s) to cite:
+### Demo
+
+### Paper(s):
 - **Introducing the Welsh Summarisation Dataset and Baseline Systems** (Details soon...)
 
 
-# Contacts
+### Contacts
 - *Ignatius Ezeani*
 - *Mahmoud El-Haj*
 - *Jon Morris*
