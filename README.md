@@ -8,7 +8,7 @@ This is a collection of 513 Welsh texts (Wikipedia articles) and their summaries
 
 ### Demo
 Here is the link to [a simple demo](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py) of the Welsh Text Summarisation tool.
-![Demo Screenshot](./img/demo_screenshot.JPG)
+[![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py)
 
 ### Paper(s):
 - **Introducing the Welsh Summarisation Dataset and Baseline Systems** (Details soon...)
