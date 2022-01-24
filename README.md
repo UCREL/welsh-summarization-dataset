@@ -7,7 +7,7 @@ This repo holds the Welsh Summarisation Dataset and Python demo scripts and note
 
 ### Demo
 Here is the link to [a simple demo](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py) of the Welsh Text Summarisation tool.
-![This is an image](./img/demo_screenshot.JPG)
+![This is an image](./img/demo_screenshot.JPG =100x100)
 
 ### Paper(s):
 - **Introducing the Welsh Summarisation Dataset and Baseline Systems** (Details soon...)
