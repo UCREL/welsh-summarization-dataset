@@ -12,7 +12,7 @@ Here is the link to [a simple demo](https://share.streamlit.io/ignatiusezeani/we
 [![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py)
 
 ### Paper(s):
-- **Introducing the Welsh Summarisation Dataset and Baseline Systems** (Details soon...)
+- **Introducing the Welsh Summarisation Dataset and Baseline Systems** (Submitted to LREC2022)
 
 
 ### Contacts
