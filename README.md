@@ -30,7 +30,7 @@ dataset.head()
 
 ### Demo
 Here is the link to [a simple demo](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py) of the Welsh Text Summarisation tool.
-[![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py)
+[![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/app/app.py)
 
 ### Paper(s):
 - **Introducing the Welsh Summarisation Dataset and Baseline Systems** (Submitted to LREC2022)
