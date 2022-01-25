@@ -16,7 +16,15 @@ import os
 import pickle as pkl
 os.chdir('/content/welsh-summarisation-dataset')
 ```
-
+- Then load the dataset file into memory
+```python
+with open('./data/dataset.pkl', "rb") as dataset_file:
+  dataset = pkl.load(dataset_file)
+```
+- Check the first five rows of your dataset with `.head()`
+```python
+dataset.head()
+```
 
 ![Dataset Screenshot](https://github.com/UCREL/welsh-summarisation-dataset/blob/main/img/dataset_screenshot.JPG?raw=true)
 
