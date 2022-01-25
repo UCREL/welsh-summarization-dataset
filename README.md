@@ -17,7 +17,7 @@ Here is the link to [a simple demo](https://share.streamlit.io/ignatiusezeani/we
 
 ### Contacts
 - [Ignatius Ezeani](https://github.com/IgnatiusEzeani)
-- [Mahmoud El-Haj]()
+- [Mahmoud El-Haj](https://github.com/drelhaj)
 - [Jon Morris](https://github.com/jonmorris83)
 - [Dawn Knight](https://github.com/DawnKnight-Cardiff)
 
