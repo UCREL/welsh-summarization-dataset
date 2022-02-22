@@ -2,7 +2,7 @@
 This repo holds the Welsh Summarisation Dataset and Python demo scripts and notebooks. It is being actively updated at the moment, so keep watching the space.
 
 ### Dataset
-This is a collection of 513 Welsh texts (Wikipedia articles) and their summaries. Each of the articles - containing at least 500 tokens in length - was extracted along with its Wikipedia summary using the [WikipediaAPI](https://pypi.org/project/Wikipedia-API/). The raw files - containing the Wikipedia extracted articles and summaries - are stored in [data.zip](data) in html and plain text formats. The processed files are placed in a pickled pandas dataframe [dataset.pkl](data) which can be viewed with [this colab file](dataset.ipynb).
+This is a collection of 513 Welsh texts (Wikipedia articles) and their summaries. Each of the articles - containing at least 500 tokens in length - was extracted along with its Wikipedia summary using the [WikipediaAPI](https://pypi.org/project/Wikipedia-API/). The raw files - containing the Wikipedia extracted articles and summaries as is - are available in [data.zip](data) in html and plain text formats and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. The Python scripts for accessing the extracted and processed files can be viewed and used with [this colab file](dataset.ipynb).
 
 ### Usage
 For the dataset usage example, you can open [the notebook](dataset.ipynb) in Google Colab and by clicking the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCREL/welsh-summarisation-dataset/blob/main/dataset.ipynb)] run the following scripts.
