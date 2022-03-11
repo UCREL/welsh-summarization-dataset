@@ -39,8 +39,7 @@ dataset.head()
 - *Here is the link to [a simple demo](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py) of the Welsh Text Summarisation tool.
 [![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/app/app.py)*
 
-
-### Papers (Papau):
+### Papurau (Papers):
 - Ezeani, I., El- Haj, M.A., Morris, J. a Knight, D. (2022). **Cyflwyno Adnodd Crynhoi Setiau Data Cymraeg, a Systemau Sylfaenol (Introducing the Welsh Summarisation Dataset and Baseline Systems)**. Trafodaethau o Gynhadledd Gwerthuso Adnoddau Iaith (LREC) 2022, Mehefin 2022, Marseille, Ffrainc. [*Proceedings of the LREC (Language Resources Evaluation) 2022 Conference, June 2022, Marseille, France.*] (IF ACCEPTED)
 
 - Morris, Jonathan, Ignatius Ezeani, Ianto Gruffydd, Katharine Young, Lynne Davies, Mahmoud El-Haj a Dawn Knight. 2022. **Creu crynodebau awtomatig o destunau Cymraeg (Welsh automatic text summarisation)**. Symposiwm Academaidd Technolegau Iaith Cymru 2022. Prifysgol Bangor, 28 Ionawr 2022. [*Wales Academic Symposium on Language Technologies 2022, Bangor University, 28 January 2022.*]
