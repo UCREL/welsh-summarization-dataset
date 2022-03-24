@@ -35,9 +35,9 @@ dataset.head()
 ![Dataset Screenshot](https://github.com/UCREL/welsh-summarisation-dataset/blob/main/img/dataset_screenshot.JPG?raw=true)
 
 ### Arddangosiad (Demo)
-- Dyma’r ddolen i [arddangosiad syml](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py) o’r adnodd Crynhoi Testunau Cymraeg.
-- *Here is the link to [a simple demo](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/streamlit/app.py) of the Welsh Text Summarisation tool.
-[![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ignatiusezeani/welsh-text-summarizer/main/app/app.py)*
+- Dyma’r ddolen i [arddangosiad syml](https://share.streamlit.io/ucrel/welsh_summarizer/main/app/app.py) o’r adnodd Crynhoi Testunau Cymraeg.
+- *Here is the link to [a simple demo](https://share.streamlit.io/ucrel/welsh_summarizer/main/app/app.py) of the Welsh Text Summarisation tool.
+[![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ucrel/welsh_summarizer/main/app/app.py)*
 
 ### Papurau (Papers):
 - Ezeani, I., El- Haj, M.A., Morris, J. a Knight, D. (2022). **Cyflwyno Adnodd Crynhoi Setiau Data Cymraeg, a Systemau Sylfaenol (Introducing the Welsh Summarisation Dataset and Baseline Systems)**. Trafodaethau o Gynhadledd Gwerthuso Adnoddau Iaith (LREC) 2022, Mehefin 2022, Marseille, Ffrainc. [*Proceedings of the LREC (Language Resources Evaluation) 2022 Conference, June 2022, Marseille, France.*] (IF ACCEPTED)
