@@ -1,5 +1,5 @@
 # Set ddata’r Adnodd Creu Crynodebau
-### Welsh Summarisation Dataset
+### Welsh Summarization Dataset
 
 Mae'r ystorfa hon yn cynnwys set ddata’r Adnodd Crynhoi Crynodebau a sgriptiau arddangos a llyfrau nodiadau Python. Mae'n cael ei diweddaru ar hyn o bryd, felly cofiwch gael golwg arni’n gyson.
 
