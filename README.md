@@ -40,11 +40,13 @@ dataset.head()
 [![Demo Screenshot](./img/demo_screenshot.JPG)](https://share.streamlit.io/ucrel/welsh_summarizer/main/app/app.py)*
 
 ### Papurau (Papers):
-- Ezeani, I., El- Haj, M.A., Morris, J. a Knight, D. (2022). **Cyflwyno Adnodd Crynhoi Setiau Data Cymraeg, a Systemau Sylfaenol (Introducing the Welsh Summarisation Dataset and Baseline Systems)**. Trafodaethau o Gynhadledd Gwerthuso Adnoddau Iaith (LREC) 2022, Mehefin 2022, Marseille, Ffrainc. [*Proceedings of the LREC (Language Resources Evaluation) 2022 Conference, June 2022, Marseille, France.*] (IF ACCEPTED)
+- Ezeani, I., El- Haj, M.A., Morris, J. a Knight, D. (2022). **Cyflwyno Adnodd Crynhoi Setiau Data Cymraeg, a Systemau Sylfaenol (Introducing the Welsh Summarisation Dataset and Baseline Systems)**. Trafodaethau o Gynhadledd Gwerthuso Adnoddau Iaith (LREC) 2022, Mehefin 2022, Marseille, Ffrainc. [*Proceedings of the LREC (Language Resources Evaluation) 2022 Conference, June 2022, Marseille, France.*]
 
-- Morris, Jonathan, Ignatius Ezeani, Ianto Gruffydd, Katharine Young, Lynne Davies, Mahmoud El-Haj a Dawn Knight. 2022. **Creu crynodebau awtomatig o destunau Cymraeg (Welsh automatic text summarisation)**. Symposiwm Academaidd Technolegau Iaith Cymru 2022. Prifysgol Bangor, 28 Ionawr 2022. [*Wales Academic Symposium on Language Technologies 2022, Bangor University, 28 January 2022.*]
+- Morris, Jonathan, Ignatius Ezeani, Ianto Gruffydd, Katharine Young, Lynne Davies, Mahmoud El-Haj a Dawn Knight. 2022. **Creu crynodebau awtomatig o destunau Cymraeg (Welsh Automatic Text Summarisation)**. Symposiwm Academaidd Technolegau Iaith Cymru 2022. Prifysgol Bangor, 28 Ionawr 2022. [*Wales Academic Symposium on Language Technologies 2022, Bangor University, 28 January 2022.*]
 
-- Morris, Jonathan, Ignatius Ezeani, Ianto Gruffydd, Katharine Young, Lynne Davies, Mahmoud El-Haj a Dawn Knight. Forth. **Creu crynodebau awtomatig o destunau Cymraeg (Welsh automatic text summarisation)**. Yn dod.  Iaith a Thechnoleg yng Nghymru: Cyfrol II, gol. D. Prys. Bangor: Canolfan Bedwyr. [*Language and Technology in Wales: Volume II, ed. D. Prys. Bangor: Canolfan Bedwyr.*]
+- Morris, Jonathan, Ignatius Ezeani, Ianto Gruffydd, Katharine Young, Lynne Davies, Mahmoud El-Haj a Dawn Knight. Forth. **Creu crynodebau awtomatig o destunau Cymraeg (Welsh Automatic Text Summarisation)**. Yn dod.  Iaith a Thechnoleg yng Nghymru: Cyfrol II, gol. D. Prys. Bangor: Canolfan Bedwyr. [*Language and Technology in Wales: Volume II, ed. D. Prys. Bangor: Canolfan Bedwyr.*]
+
+- El-Haj, M., Ezeani, I., Morris, J. a Knight, D. (2022). **Trafodion Gweithdy Technolegau’r Ieithoedd Celtaidd (Welsh Summaries Correlation between ROUGE and Human Evaluation)**, Cynhadledd LREC (Language Resources Evaluation) 2022 , Mehefin 2022, Marseille, Ffrainc. [*Proceedings of the Celtic Language Technology Workshop, LREC (Language Resources Evaluation) 2022 Conference, June 2022, Marseille, France.*]
 
 ### Cysylltiadau (Contacts)
 - [Ignatius Ezeani](https://github.com/IgnatiusEzeani)
