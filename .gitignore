@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+code/creating_cyt5_small/
 eggs/
 .eggs/
 lib/
